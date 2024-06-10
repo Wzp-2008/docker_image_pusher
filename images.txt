@@ -1,1 +1,9 @@
 1panel/openresty
+jellyfin/jellyfin
+mouday/domain-admin
+gitea/act_runner
+redis
+linuxserver/code-server
+rediscommander/redis-commander
+phpmyadmin
+mysql:8.2.0
